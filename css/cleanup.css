@@ -17,6 +17,6 @@
 #wall .parent div + div #tag-6{
   display: none;
 }
-#wall .parent div [id="tag-7" class="slick"]{
+#wall .parent div div[id="tag-7" class="slick"]{
   display: none;
 }
